@@ -1,6 +1,6 @@
 # Desafio PicPay Simplificado
 
-Criei este projeto para praticar e colocar em prática o que venho aprendendo sobre desenvolvimento de APIs REST com Java e Spring Boot. A ideia foi pegar as regras de negócio do desafio do PicPay (vaga júnior) para consolidar meus estudos.
+Criei este projeto para colocar em prática o que venho aprendendo sobre desenvolvimento de APIs REST com Java e Spring Boot. A ideia foi pegar as regras de negócio do desafio do PicPay (vaga júnior) para consolidar meus estudos.
 
 ## O que pratiquei aqui:
 * **Estrutura de pastas**: Divisão limpa do projeto usando camadas (Controllers, Services, DTOs e Repositories).
